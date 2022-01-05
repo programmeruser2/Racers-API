@@ -9,4 +9,4 @@ You can play Racers API with any language that supports HTTP requests.
 Learn more in the [Documentation](https://github.com/billyBob456/Racers-API/#documentation) section
 
 ## Documentation
-Documentation coming soon!
+See DOCUMENTATION.md
